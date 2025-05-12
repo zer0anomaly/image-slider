@@ -3,9 +3,9 @@ const backbutton = document.getElementById('backbutton')
 const seconddiv = document.getElementById('seconddiv')
 
 const list = [
-	"images/imageone.png",
-	"images/imagetwo.png",
-	"images/imagethree.png"
+	"imageone.png",
+	"imagetwo.png",
+	"imagethree.png"
 ];
 
 let currentIndex = 0;
